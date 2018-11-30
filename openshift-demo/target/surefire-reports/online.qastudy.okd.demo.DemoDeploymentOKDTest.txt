@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: online.qastudy.okd.demo.DemoDeploymentOKDTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.608 sec - in online.qastudy.okd.demo.DemoDeploymentOKDTest
