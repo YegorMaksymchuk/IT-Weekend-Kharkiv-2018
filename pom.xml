@@ -12,7 +12,6 @@
     <name>IT-Weekend-2018</name>
 
     <modules>
-        <module>kubernetes-demo</module>
         <module>openshift-demo</module>
     </modules>
 
