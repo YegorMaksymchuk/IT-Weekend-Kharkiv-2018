@@ -9,8 +9,6 @@ import io.fabric8.openshift.api.model.ProjectRequest;
 import io.fabric8.openshift.api.model.RouteIngressConditionBuilder;
 import io.fabric8.openshift.client.OpenShiftClient;
 import lombok.extern.slf4j.Slf4j;
-
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
